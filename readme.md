@@ -2,23 +2,8 @@
 
 ## TODO
 
-- Intro
-- Basic
-- Elements
-- Attributes
-- Headings
-- Paragraphs
-- Formnattiong
-- Quotations
-- Comments
-- Links
-- Images
-- Favicon
-- Page Title
-- Block & Inline
-- Div
-- Head
-- Semantics
+- List
+- Table
 
 ## Tutorials
 

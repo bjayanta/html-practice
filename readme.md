@@ -5,7 +5,6 @@
 - Last class repeat
 - Form
 - Image map
--
 
 ## Tutorials
 
